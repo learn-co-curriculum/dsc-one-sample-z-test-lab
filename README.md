@@ -22,9 +22,6 @@ Follow the 5 steps shown in previous lesson and use alpha = 0.05.
 ```python
 # State you null and alternative hypotheses
 
-
-# Ha : time to rent the car is greater than 60 seconds
-# Ho : time to rent a car is less than or equal to 60 sec
 ```
 
 
@@ -32,23 +29,14 @@ Follow the 5 steps shown in previous lesson and use alpha = 0.05.
 # Your solution here
 
 
-p,z
 # (p = 0.0013498980316301035, z = 3.0)
 ```
-
-
-
-
-    (0.0013498980316301035, 3.0)
-
-
 
 
 ```python
 # Interpret the results in terms of p-value obtained
 
-# with p value less than 0.05 , we can reject the null hypothesis and say that time to rent a car
-# is significantly more than what company claims. 
+
 ```
 
 ## Exercise 2
@@ -74,25 +62,13 @@ The question is, are these students’ SAT scores significantly greater than a p
 ```python
 # State your hypotheses 
 
-
-# Ha : there is an increase in grades after program
-# Ho : there is no incerase in grade 
 ```
 
 
 ```python
 # Give your solution here 
 
-import numpy as np 
-x = np.array([434, 694, 457, 534, 720, 400, 484, 478, 610, 641, 425, 636, 454,
-514, 563, 370, 499, 640, 501, 625, 612, 471, 598, 509, 531])
-x_bar = x.mean()
-n = len(x)
-mu = 500
-sigma = 100
-z = (x_bar - mu)/(sigma/math.sqrt(n))
-p = 1 - stats.norm.cdf(z)
-p,z
+
 
 # p = 0.03593031911292577, z = 1.8
 ```
@@ -101,8 +77,6 @@ p,z
 ```python
 # Interpret the results in terms of p-value obtained
 
-# The p value is less than tha alpha so we can colculde that:
-# the training has a SIGNIFICANT effect on the SAT outcome. 
 ```
 
 ## Summary
