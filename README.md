@@ -1,11 +1,11 @@
 
-# One-sample z-test - Lab
+# One-Sample z-test - Lab
 
-### Introduction
+## Introduction
 In this lab we will go through quick tests to help you better understand the ideas around hypothesis testing.
 
 ## Objectives
-You would be able to
+You will be able to:
 * Understand and explain use cases for a 1-sample z-test
 * Set up null and alternative hypotheses
 * Calculate z statistic using z-tables and cdf functions
