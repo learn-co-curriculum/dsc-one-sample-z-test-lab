@@ -12,7 +12,7 @@ You will be able to:
 * Calculate and interpret p-value for significance of results.
 
 ## Exercise 1
-A rental car company claims the mean time to rent a car on their website is 60 seconds with a standard deviation of 30 seconds. A random sample of 36 customers attempted to rent a car on the website. The mean time to rent was 75 seconds. Is this enough evidence to contradict the company's claim? 
+A rental car company claims the mean time to rent a car on their website is 60 seconds or less, with a standard deviation of 30 seconds. A random sample of 36 customers attempted to rent a car on the website. The mean time to rent was 75 seconds. Is this enough evidence to contradict the company's claim? 
 
 <img src="http://www.guptatravelsjabalpur.com/wp-content/uploads/2016/04/car-rentalservice.jpg" width=400>
 
