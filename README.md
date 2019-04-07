@@ -34,7 +34,7 @@ Follow the 5 steps shown in previous lesson and use alpha = 0.05.
 
 
 ```python
-# Interpret the results in terms of p-value obtained
+# Interpret the results in terms of the p-value
 
 
 ```
@@ -75,7 +75,7 @@ The question is, are these students’ SAT scores significantly greater than a p
 
 
 ```python
-# Interpret the results in terms of p-value obtained
+# Interpret the results in terms of the p-value
 
 ```
 
