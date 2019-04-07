@@ -14,8 +14,6 @@ You will be able to:
 ## Exercise 1
 A rental car company claims that the mean time to rent a car on their website is 60 seconds or less, with a standard deviation of 30 seconds. You observed a sample of 36 customers attempting to rent a car on the website. The mean time to rent was 75 seconds. Is this enough evidence to contradict the company's claim? 
 
-<img src="http://www.guptatravelsjabalpur.com/wp-content/uploads/2016/04/car-rentalservice.jpg" width="400">
-
 Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05. 
 
 
@@ -47,8 +45,6 @@ Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05.
 434 694 457 534 720 400 484 478 610 641 425 636 454 
 514 563 370 499 640 501 625 612 471 598 509 531
 ``
-
-<img src="http://falearningsolutions.com/wp-content/uploads/2015/09/FAcogtrain71FBimage.jpg" width="400">
 
 We know that the population average for SAT scores is 500 with a standard deviation of 100.
 
