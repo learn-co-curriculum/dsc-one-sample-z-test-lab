@@ -2,7 +2,7 @@
 # One-Sample z-test - Lab
 
 ## Introduction
-In this lab you will perform a few quick tests to help you better understand the ideas around hypothesis testing.
+In this lab you'll perform a few quick tests to help you better understand how hypothesis testing works.
 
 ## Objectives
 You will be able to:
