@@ -12,7 +12,7 @@ You will be able to:
 * Calculate and interpret p-value for significance of results
 
 ## Exercise 1
-A rental car company claims that the mean time to rent a car on their website is 60 seconds or less, with a standard deviation of 30 seconds. You observed a sample of 36 customers attempting to rent a car on the website. The mean time to rent was 75 seconds. Is this enough evidence to contradict the company's claim? 
+A fast food chain claims that the mean time to order food at their restaurants is 60 seconds, with a standard deviation of 30 seconds. You decide to take this claim to the test and go to one of the restaurants to observe actual waiting times. You take a sample of 36 customers and find that the mean order time was 75 seconds. Does this finding prove enough evidence to contradict the fast food chain's claim of fast service?
 
 Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05. 
 
