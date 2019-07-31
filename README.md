@@ -24,6 +24,16 @@ Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05.
 
 
 ```python
+# __SOLUTION__ 
+# State your null and alternative hypotheses
+
+
+# Ha : the time to order food is bigger than 60 seconds
+# Ho : the time to order food is less than or equal to 60 sec
+```
+
+
+```python
 # Your solution here
 
 
@@ -32,9 +42,42 @@ Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05.
 
 
 ```python
+# __SOLUTION__ 
+# Your solution here
+
+import math
+import scipy.stats as stats
+mu = 60
+sigma = 30
+n=36
+x_bar = 75
+z = (x_bar - mu)/(sigma/math.sqrt(n))
+p = 1 - stats.norm.cdf(z)
+
+p,z
+```
+
+
+
+
+    (0.0013498980316301035, 3.0)
+
+
+
+
+```python
 # Interpret the results in terms of the p-value
 
 
+```
+
+
+```python
+# __SOLUTION__ 
+# Interpret the results in terms of the p-value
+
+# with p-value less than 0.05, you can reject the null hypothesis and say that the time to order food
+# is significantly higher than what the fast food chain claims. 
 ```
 
 ## Exercise 2
@@ -60,6 +103,16 @@ Are our 25 students’ SAT scores significantly higher than the population's mea
 
 
 ```python
+# __SOLUTION__ 
+# State your hypotheses 
+
+
+# Ha : there is an increase in grades after program
+# Ho : there is no incerase in grade 
+```
+
+
+```python
 # Give your solution here 
 
 
@@ -69,8 +122,43 @@ Are our 25 students’ SAT scores significantly higher than the population's mea
 
 
 ```python
+# __SOLUTION__ 
+# Give your solution here 
+
+import numpy as np 
+x = np.array([434, 694, 457, 534, 720, 400, 484, 478, 610, 641, 425, 636, 454,
+514, 563, 370, 499, 640, 501, 625, 612, 471, 598, 509, 531])
+x_bar = x.mean()
+n = len(x)
+mu = 500
+sigma = 100
+z = (x_bar - mu)/(sigma/math.sqrt(n))
+p = 1 - stats.norm.cdf(z)
+p,z
+
+# p = 0.03593031911292577, z = 1.8
+```
+
+
+
+
+    (0.03593031911292577, 1.8)
+
+
+
+
+```python
 # Interpret the results in terms of the p-value
 
+```
+
+
+```python
+# __SOLUTION__ 
+# Interpret the results in terms of the p-value
+
+# The p value is less than tha alpha so we can colculde that:
+# the training has a SIGNIFICANT effect on the SAT outcome. 
 ```
 
 ## Summary
