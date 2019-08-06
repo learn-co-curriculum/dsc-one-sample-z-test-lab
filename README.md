@@ -12,7 +12,7 @@ You will be able to:
 * Calculate and interpret p-value for significance of results
 
 ## Exercise 1
-A fast food chain claims that the mean time to order food at their restaurants is 60 seconds, with a standard deviation of 30 seconds. You decide to take this claim to the test and go to one of the restaurants to observe actual waiting times. You take a sample of 36 customers and find that the mean order time was 75 seconds. Does this finding prove enough evidence to contradict the fast food chain's claim of fast service?
+A fast food chain claims that the mean time to order food at their restaurants is 60 seconds, with a standard deviation of 30 seconds. You decide to put this claim to the test and go to one of the restaurants to observe actual waiting times. You take a sample of 36 customers and find that the mean order time was 75 seconds. Does this finding prove enough evidence to contradict the fast food chain's claim of fast service?
 
 Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05. 
 
@@ -67,7 +67,7 @@ p,z
 
 We know that the population average for SAT scores is 500 with a standard deviation of 100.
 
-Are our 25 students’ SAT scores significantly bigger than a population mean? 
+Are our 25 students’ SAT scores significantly higher than the population's mean score? 
 
 *Note that the SAT preparation program claims that it will increase (and not decrease) the SAT score.  So, you can conduct a one-directional test. (alpha = .05).*
 
