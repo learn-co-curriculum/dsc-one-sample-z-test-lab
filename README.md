@@ -6,13 +6,13 @@ In this lab you'll perform a few quick tests to help you better understand how h
 
 ## Objectives
 You will be able to:
-* Understand and explain use cases for a one-sample z-test
+* Understand and explain use cases for a one-sample $z$-test
 * Set up null and alternative hypotheses
-* Calculate z-statistic using z-tables and CDF functions
+* Calculate $z$-statistic using $z$-tables and CDF functions
 * Calculate and interpret p-value for significance of results
 
 ## Exercise 1
-A fast food chain claims that the mean time to order food at their restaurants is 60 seconds, with a standard deviation of 30 seconds. You decide to put this claim to the test and go to one of the restaurants to observe actual waiting times. You take a sample of 36 customers and find that the mean order time was 75 seconds. Does this finding prove enough evidence to contradict the fast food chain's claim of fast service?
+A fast-food chain claims that the mean time to order food at their restaurants is 60 seconds, with a standard deviation of 30 seconds. You decide to put this claim to the test and go to one of the restaurants to observe actual waiting times. You take a sample of 36 customers and find that the mean order time was 75 seconds. Does this finding provide enough evidence to contradict the fast food chain's claim of fast service?
 
 Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05. 
 
@@ -39,7 +39,7 @@ Follow the 5 steps shown in previous lesson and use $\alpha$ = 0.05.
 
 ## Exercise 2
 
-25 students complete a preparation program for taking the SAT test.  Here are the SAT scores from the 25 students who completed  program:
+25 students complete a preparation program for taking the SAT test.  Here are the SAT scores from the 25 students who completed the program:
 
 ``
 434 694 457 534 720 400 484 478 610 641 425 636 454 
