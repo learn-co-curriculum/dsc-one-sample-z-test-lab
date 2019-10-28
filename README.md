@@ -6,9 +6,10 @@ In this lab, you'll perform a few quick tests to help you better understand how 
 
 ## Objectives
 You will be able to:
-* Understand and explain use cases for a one-sample $z$-test
+
+* Explain use cases for a 1-sample z-test
 * Set up null and alternative hypotheses
-* Calculate $z$-statistic using $z$-tables and CDF functions
+* Use the z-table and scipy methods to acquire the p value for a given z-score
 * Calculate and interpret p-value for significance of results
 
 ## Exercise 1
