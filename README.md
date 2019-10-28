@@ -6,9 +6,10 @@ In this lab, you'll perform a few quick tests to help you better understand how 
 
 ## Objectives
 You will be able to:
-* Understand and explain use cases for a one-sample $z$-test
+
+* Explain use cases for a 1-sample z-test
 * Set up null and alternative hypotheses
-* Calculate $z$-statistic using $z$-tables and CDF functions
+* Use the z-table and scipy methods to acquire the p value for a given z-score
 * Calculate and interpret p-value for significance of results
 
 ## Exercise 1
@@ -77,7 +78,7 @@ Are our 25 students’ SAT scores significantly higher than the population's mea
 
 
 # Ha : there is an increase in grades after program
-# Ho : there is no incerase in grade 
+# Ho : there is no increase in grade 
 ```
 
 
@@ -109,8 +110,8 @@ p,z
 ```python
 # Interpret the results in terms of the p-value
 
-# The p value is less than tha alpha so we can colculde that:
-# the training has a SIGNIFICANT effect on the SAT outcome. 
+# The p value is less than tha alpha so we can conclude that:
+# the training has a SIGNIFICANT effect on the SAT outcome at a significance level of 0.05
 ```
 
 ## Summary
